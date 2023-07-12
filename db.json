@@ -1,0 +1,73 @@
+{
+  "shoes": [
+    {
+      "id": 0,
+      "title": "GREEN MUSCLE FIT POLO SHIRT",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "man",
+      "img": "https://avatars.mds.yandex.net/i?id=18cdca61bc9831b2a2655e3400ac9d8e44adb116-9049620-images-thumbs&n=13"
+    },
+    {
+      "id": 1,
+      "title": "GREEN DENIM JACKET",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "man",
+      "img": "https://avatars.mds.yandex.net/i?id=e032db22a179a5f290f2054ac19f576b9fd522bd-5324628-images-thumbs&n=13"
+    },
+    {
+      "id": 2,
+      "title": "STRIPED COTTON T-SHIRT",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "man",
+      "img": "https://avatars.mds.yandex.net/i?id=9f22e8dc608b1f9832fc783f40c9b920-5650815-images-thumbs&n=13"
+    },
+    {
+      "id": 3,
+      "title": "BLACK LEATHER BOOTS",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "woman",
+      "img": "https://avatars.mds.yandex.net/i?id=457bae87b67bb2bb3dc2e28696b2fa85ce398c1e-9138191-images-thumbs&n=13"
+    },
+    {
+      "id": 4,
+      "title": "FLORAL PRINT MAXI DRESS",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "woman",
+      "img": "https://avatars.mds.yandex.net/i?id=83cced5908f00649fa6aae35a6f6321460271d8d-7716469-images-thumbs&n=13"
+    },
+    {
+      "id": 5,
+      "title": "NAVY BLUE CHINO PANTS",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "woman",
+      "img": "https://avatars.mds.yandex.net/i?id=cf897130a91343b8ca4c927fc449a1f0-5859737-images-thumbs&n=13"
+    },
+    {
+      "id": 6,
+      "title": "GREY HOODED SWEATSHIRT",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "woman",
+      "img": "https://avatars.mds.yandex.net/i?id=423a7c38dc2d3e1c7ac7541dbc87c19458dc912d-5023294-images-thumbs&n=13"
+    },
+    {
+      "id": 7,
+      "title": "PLAID WOOL BLAZER",
+      "price": "129.00",
+      "noprice": "220.00",
+      "category": "woman",
+      "img": "https://avatars.mds.yandex.net/i?id=45a2bf622821fa5a512c88b78dc1f960-4577244-images-thumbs&n=13"
+    }
+  ],
+  "users": [
+    {
+      "id": "radzhapov.allayar@gmail.com"
+    }
+  ]
+}
